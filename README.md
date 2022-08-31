@@ -13,10 +13,10 @@
 </div>
 
 ### Hello World
-- 💬 Ask me about anything and everything!
+- 💬 Ask me something about technology and I will be happy to answer!
 - 📫 How to reach me: message me at [dyi.cisnerosr@gmail.com](https://accounts.google.com)
-- ⚡ Fun fact: I love watching asian series
-- 🎧 I love programming listening to music
+- ⚡ Fun fact: I love watching asian series 
+- 🎧 I love programming listening to music 
 
 ### Languages
 
