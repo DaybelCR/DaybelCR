@@ -7,9 +7,9 @@
  </p>
 
 ### ✍ A little about me
-<div  >
-   <p >FullStack developer with a FrontEnd orientation, with the ability to carry out web application projects and I also love taking on challenges that challenge my knowledge. I am a self-taught person, persevering and with a high sense of responsibility who can adapt to any change, and willing to work in a team.</p>
-   <img align="right" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" width="300px"/>
+<div>
+   <p>FullStack developer with a FrontEnd orientation, with the ability to carry out web application projects and I also love taking on challenges that challenge my knowledge. I am a self-taught person, persevering and with a high sense of responsibility who can adapt to any change, and willing to work in a team.</p>
+   <img align="right" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" width="40%"/>
 </div>
 
 ### Hello World
@@ -36,6 +36,9 @@
 ![Git](https://img.shields.io/badge/-git-000?&logo=git)
 ![HTML5](https://img.shields.io/badge/-html5-000?&logo=html5)
 ![CCS3](https://img.shields.io/badge/-Css3-000?&logo=Css3)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&color=black)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&color=black)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&color=black)
 
 ### Full Stack Projects
 
@@ -43,5 +46,12 @@
 [![](https://img.shields.io/badge/-🦠%20Dog%20App-000)](https://github.com/DaybelCR/PI-Dogs)
 [![](https://img.shields.io/badge/-📝%20VideoGames%20App-000)](https://github.com/DaybelCR/PI-VideoGames)
 
+### Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaybelCR&hide_progress=true)
+
+### Github Stats
 ![Daysi's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=DayBelCR&show_icons=true)
+
+
+
 
